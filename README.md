@@ -8,3 +8,8 @@
 ## v0.1.1
 
 * fix bugs for notify update
+
+## v0.2.0
+
+* fix bugs
+* Change behavior format for dev
